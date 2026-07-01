@@ -1,6 +1,6 @@
 # Hi, I'm James
 
-I'm a builder and engineer. I like turning fuzzy ideas into working systems: AI agents, developer tools, infrastructure, and small utilities that make daily engineering feel lighter.
+I'm a builder, engineer, and developer. I like turning fuzzy ideas into working systems: AI agents, developer tools, infrastructure, and small utilities that make daily engineering feel lighter.
 
 ## Current Workbench
 
