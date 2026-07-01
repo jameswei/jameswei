@@ -1,17 +1,10 @@
-# Hi, I'm Jia Wei
+# Hi, I'm James
 
-I'm a builder and engineer, ex-Microsoft, ex-LinkedIn, and ex-cofounder. I like turning fuzzy ideas into working systems: AI agents, developer tools, learning-first infrastructure, and small utilities that make daily engineering feel lighter.
-
-These days I am mostly exploring:
-
-- AI agent workflows and human-in-the-loop coding systems
-- Learning-first LLM infrastructure: RAG, inference engines, and small models built from first principles
-- Local developer tools for macOS and the command line
-- Practical backend and distributed-system patterns
+I'm a builder and engineer. I like turning fuzzy ideas into working systems: AI agents, developer tools, infrastructure, and small utilities that make daily engineering feel lighter.
 
 ## Current Workbench
 
-### AI and learning systems
+### AI and learning-first systems
 
 - [tiny-rag-lab](https://github.com/jameswei/tiny-rag-lab) - a learning-first RAG engine for classic RAG scenarios.
 - [tiny-duo-infer](https://github.com/jameswei/tiny-duo-infer) - a tiny inference engine with Apple Silicon and NVIDIA GPU backends.
@@ -48,18 +41,9 @@ Recent merged contributions:
 - [patriceckhart/zot-goal#1](https://github.com/patriceckhart/zot-goal/pull/1) - fixed manual stop handling so it is not recorded as blocked.
 - [MadSkittles/Router-Maestro#101](https://github.com/MadSkittles/Router-Maestro/pull/101) - added an HTTP observability foundation.
 
-Earlier contributions include Solidity/Hardhat deployment work in [NovaRollup/Rollup](https://github.com/NovaRollup/Rollup/pulls?q=is%3Apr+author%3Ajameswei), typo and documentation fixes in [starcoinorg/starcoin](https://github.com/starcoinorg/starcoin/pulls?q=is%3Apr+author%3Ajameswei), and small docs/translation improvements across developer-learning projects.
-
 ## Long-Running Interests
 
 - Distributed systems, databases, messaging, and backend infrastructure
-- Go, Python, Swift, TypeScript, Java, and the occasional shell script
+- Go, Python, Java, and the occasional shell script
 - RAG systems, local inference, coding agents, and developer experience
 - Learning by rebuilding small versions of useful systems
-
-## Elsewhere
-
-- GitHub: [github.com/jameswei](https://github.com/jameswei)
-- Porta: [jameswei.github.io/porta](https://jameswei.github.io/porta/)
-- Tiny RAG Lab: [jameswei.github.io/tiny-rag-lab](https://jameswei.github.io/tiny-rag-lab/)
-- Tiny Duo Infer: [jameswei.github.io/tiny-duo-infer](https://jameswei.github.io/tiny-duo-infer/)
