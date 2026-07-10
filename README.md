@@ -20,11 +20,12 @@ I'm a builder, engineer, and developer. I like turning fuzzy ideas into working 
 
 ### Practical tools and personal apps
 
-- [porta](https://github.com/jameswei/porta) - a macOS menu-bar app for finding and killing orphan listening ports.
+- [Rewritr](https://lifeplayer.space/rewritr) - a native macOS app that rewrites English into more natural, native-like text using your own OpenAI-compatible provider.
+- [Porta](https://github.com/jameswei/porta) - a native macOS app for finding and killing orphan listening ports.
 - [climb-coach](https://github.com/jameswei/climb-coach) - a climbing coach app and a personal gift project.
 - [Windows_Hotkey](https://github.com/jameswei/Windows_Hotkey) - useful scripts and hotkeys for working on Windows.
 
-### Earlier backend and infrastructure projects
+### Earlier projects
 
 - [zmopenapi-sdk-golang](https://github.com/jameswei/zmopenapi-sdk-golang) - a Go SDK for ZhiMa Credit integration.
 - [go-gridfs-serve](https://github.com/jameswei/go-gridfs-serve) - a HTTP server for serving files stored in MongoDB GridFS.
@@ -34,15 +35,15 @@ I'm a builder, engineer, and developer. I like turning fuzzy ideas into working 
 
 ## Open Source Contributions
 
-Recent contributions:
+Recent contributions to:
 
-- [holon-run/holon](https://github.com/holon-run/holon/) - added Vim-style composer mode to the TUI.
-- [patriceckhart/zot](https://github.com/patriceckhart/zot/) - fixed session forking after transcript compaction.
-- [patriceckhart/zot-goal](https://github.com/patriceckhart/zot-goal/) - fixed manual stop handling so it is not recorded as blocked.
-- [MadSkittles/Router-Maestro](https://github.com/MadSkittles/Router-Maestro/) - added an HTTP observability foundation.
+- [holon-run/holon](https://github.com/holon-run/holon/).
+- [patriceckhart/zot](https://github.com/patriceckhart/zot/).
+- [patriceckhart/zot-goal](https://github.com/patriceckhart/zot-goal/).
+- [MadSkittles/Router-Maestro](https://github.com/MadSkittles/Router-Maestro/).
 
 ## Long-Running Interests
 
-- Distributed systems, databases, messaging, and backend infrastructure
-- Go, Python, Java, and scripts
-- RAG systems, local inference, coding agents, and developer tools
+- Distributed systems, databases, messaging, DevOps, and backend infrastructure.
+- Go, Python, Java, and shell scripts.
+- RAG systems, local inference, coding agents, and developer tools.
