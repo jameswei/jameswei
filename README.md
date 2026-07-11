@@ -7,8 +7,8 @@ I'm a builder, engineer, and developer. I like turning fuzzy ideas into working 
 ### AI and learning-first systems
 
 - [tiny-rag-lab](https://github.com/jameswei/tiny-rag-lab) - a learning-first RAG engine for classic RAG scenarios.
-- [tiny-duo-infer](https://github.com/jameswei/tiny-duo-infer) - a tiny inference engine with Apple Silicon and NVIDIA GPU backends.
-- [tiny-gpt](https://github.com/jameswei/tiny-gpt) - GPT built from scratch through hands-on ML practice.
+- [tiny-duo-infer](https://github.com/jameswei/tiny-duo-infer) - A learning-first LLM inference engine built from scratch in Python and MLX, with a local OpenAI-compatible Chat Completions API.
+- [tiny-gpt](https://github.com/jameswei/tiny-gpt) - built GPT from scratch through hands-on ML practice.
 - [neetcode-submissions](https://github.com/jameswei/neetcode-submissions) - algorithm and ML practice notes from NeetCode.
 
 ### Agents and developer workflow
