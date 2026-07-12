@@ -20,7 +20,7 @@ I'm a builder, engineer, and developer. I like turning fuzzy ideas into working 
 
 ### Practical tools and personal apps
 
-- [Rewritr](https://lifeplayer.space/rewritr) - a native macOS app that rewrites English into more natural, native-like text using your own OpenAI-compatible provider.
+- [Rewritr](https://github.com/jameswei/rewritr) - a native macOS app that rewrites English into more natural, native-like text using your own OpenAI-compatible provider.
 - [Porta](https://github.com/jameswei/porta) - a native macOS app for finding and killing orphan listening ports.
 - [climb-coach](https://github.com/jameswei/climb-coach) - a climbing coach app and a personal gift project.
 - [Windows_Hotkey](https://github.com/jameswei/Windows_Hotkey) - useful scripts and hotkeys for working on Windows.
